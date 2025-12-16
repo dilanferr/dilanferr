@@ -72,5 +72,3 @@ Aplicación móvil orientada al reciclaje de residuos electrónicos (RAEE) media
 
 ---
 ⭐ Gracias por visitar mi perfil
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dilanferr&show_icons=true&hide_title=true)
-
