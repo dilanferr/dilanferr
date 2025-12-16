@@ -1,4 +1,4 @@
-# 👋 Hola, soy Dilan Ferreira
+# 👋 Dilan Ferreira
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -7,60 +7,83 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-🎓 Estudiante de **Ingeniería Informática** | **Analista Programador**  
-💻 Desarrollador **Web & Mobile**  
+**Estudiante de Ingeniería Informática · Analista Programador**  
+**Desarrollador Web & Mobile**  
 📍 Chile
 
 ---
 
-## 🚀 Sobre mí
-Soy estudiante de Ingeniería Informática con título de Analista Programador.  
-Me enfoco en desarrollar aplicaciones **funcionales, ordenadas y escalables**, tanto en frontend como backend.
+## Perfil
+Soy estudiante de Ingeniería Informática con formación como Analista Programador.  
+Trabajo en el desarrollo de aplicaciones **funcionales, ordenadas y escalables**, abordando tanto frontend como backend.
 
-He desarrollado proyectos académicos y personales que integran desarrollo web, aplicaciones móviles, bases de datos y procesos de datos, enfocados en soluciones prácticas con impacto real.
-
----
-
-## 🌱 Enfoque Profesional
-Me interesa desarrollar soluciones tecnológicas eficientes y bien estructuradas, aplicando buenas prácticas de desarrollo de software.  
-He trabajado en proyectos vinculados a **sustentabilidad**, **automatización** y **gestión de datos**, manteniendo una visión generalista orientada a resolver problemas reales.
+He participado en proyectos académicos y personales donde integro desarrollo web, aplicaciones móviles, bases de datos y procesos de datos, con un enfoque práctico orientado a resolver problemas reales.
 
 ---
 
-## 🛠️ Tecnologías
-
-| Área | Tecnologías |
-|---|---|
-| **Lenguajes** | Python · JavaScript |
-| **Frontend** | HTML5 · CSS3 · React · React Native |
-| **Backend** | Node.js · Express · Django |
-| **Bases de Datos** | MongoDB · MySQL · SQL Server |
-| **Herramientas** | Git/GitHub · VS Code · AWS EC2 · SSIS (ETL) |
+## Enfoque Profesional
+Me interesa el desarrollo de software bien estructurado, aplicando buenas prácticas y una visión integral del stack.  
+He trabajado en proyectos relacionados con **sustentabilidad**, **automatización** y **gestión eficiente de datos**, manteniendo un enfoque generalista adaptable a distintos contextos tecnológicos.
 
 ---
 
-## 📌 Proyecto Destacado
+## Stack Tecnológico
 
-### ♻️ ReusoSmart
-Aplicación móvil orientada al reciclaje de residuos electrónicos (RAEE) mediante geolocalización, códigos QR y sistema de puntos.
+### Desarrollo
+**Lenguajes**
+> Python · JavaScript
 
-**Tecnologías:** React Native, Node.js, MongoDB  
+**Frontend**
+> HTML5 · CSS3 · React · React Native
 
-**Funciones principales:**
-- Registro y autenticación de usuarios
+**Backend**
+> Node.js · Express · Django
+
+---
+
+### Datos
+**Bases de Datos**
+> MongoDB · MySQL · SQL Server
+
+**Data & ETL**
+> SSIS
+
+---
+
+### Infraestructura & Workflow
+**Cloud**
+> AWS EC2
+
+**Control de versiones**
+> Git · GitHub
+
+**Entorno de desarrollo**
+> Visual Studio Code
+
+---
+
+## Proyecto Destacado
+
+### ReusoSmart
+Aplicación móvil orientada al reciclaje de residuos electrónicos (RAEE), que utiliza geolocalización, códigos QR y un sistema de puntos para incentivar prácticas responsables.
+
+**Stack:** React Native · Node.js · MongoDB
+
+**Características principales**
+- Autenticación y gestión de usuarios
 - Puntos de reciclaje geolocalizados
 - Escaneo de códigos QR
 - Sistema de medallas y recompensas
 
-🔗 Repositorio:  
-👉 https://github.com/dilanferr/ReusoSmartMap
+🔗 Repositorio  
+https://github.com/dilanferr/ReusoSmartMap
 
 ---
 
-## 📫 Contacto
-📧 Email: **dilan.ferreira.c@gmail.com**  
-💼 LinkedIn: **https://www.linkedin.com/in/dilanferreiracampos/**
+## Contacto
+📧 **Email:** dilan.ferreira.c@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/dilanferreiracampos/
 
 ---
 
-⭐ Gracias por visitar mi perfil
+*Gracias por visitar mi perfil*
