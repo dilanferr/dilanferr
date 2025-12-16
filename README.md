@@ -9,7 +9,8 @@
 
 **Estudiante de Ingeniería Informática · Analista Programador**  
 **Desarrollador Web & Mobile**  
-📍 Chile
+📍 Chile <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="22px">
+
 
 ---
 
