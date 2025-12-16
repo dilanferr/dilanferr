@@ -22,41 +22,24 @@ He desarrollado proyectos académicos y personales que integran desarrollo web, 
 ---
 
 ## 🌱 Enfoque Profesional
-Me interesa desarrollar soluciones tecnológicas con impacto positivo, especialmente en proyectos relacionados con **sustentabilidad**, **automatización** y **gestión eficiente de datos**.
+Me interesa desarrollar soluciones tecnológicas eficientes y bien estructuradas, aplicando buenas prácticas de desarrollo de software.  
+He trabajado en proyectos vinculados a **sustentabilidad**, **automatización** y **gestión de datos**, manteniendo una visión generalista orientada a resolver problemas reales.
 
 ---
 
 ## 🛠️ Tecnologías
 
-### Lenguajes
-- Python
-- JavaScript
-
-### Frontend
-- HTML5
-- CSS3
-- React
-- React Native
-
-### Backend
-- Node.js
-- Express
-- Django
-
-### Bases de Datos
-- MongoDB
-- MySQL
-- SQL Server
-
-### Herramientas
-- Git & GitHub
-- Visual Studio Code
-- AWS EC2
-- SSIS (ETL)
+| Área | Tecnologías |
+|---|---|
+| **Lenguajes** | Python · JavaScript |
+| **Frontend** | HTML5 · CSS3 · React · React Native |
+| **Backend** | Node.js · Express · Django |
+| **Bases de Datos** | MongoDB · MySQL · SQL Server |
+| **Herramientas** | Git/GitHub · VS Code · AWS EC2 · SSIS (ETL) |
 
 ---
 
-## 📌 Proyectos Destacados
+## 📌 Proyecto Destacado
 
 ### ♻️ ReusoSmart
 Aplicación móvil orientada al reciclaje de residuos electrónicos (RAEE) mediante geolocalización, códigos QR y sistema de puntos.
@@ -71,15 +54,6 @@ Aplicación móvil orientada al reciclaje de residuos electrónicos (RAEE) media
 
 🔗 Repositorio:  
 👉 https://github.com/dilanferr/ReusoSmartMap
-
----
-
-## 🛣️ Roadmap (ReusoSmart)
-- [x] MVP funcional
-- [x] Sistema de puntos y medallas
-- [ ] Panel administrador
-- [ ] Métricas de impacto ambiental
-- [ ] Alianzas con entidades públicas
 
 ---
 
