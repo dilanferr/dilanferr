@@ -1,4 +1,4 @@
-# 👋 Dilan Ferreira
+# Hola, soy Dilan Ferreira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -27,7 +27,7 @@ He trabajado en proyectos relacionados con **sustentabilidad**, **automatizació
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 | Área | Tecnologías |
 |---|---|
