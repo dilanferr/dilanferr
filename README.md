@@ -27,38 +27,17 @@ He trabajado en proyectos relacionados con **sustentabilidad**, **automatizació
 
 ---
 
-## Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
-### Desarrollo
-**Lenguajes**
-> Python · JavaScript
-
-**Frontend**
-> HTML5 · CSS3 · React · React Native
-
-**Backend**
-> Node.js · Express · Django
-
----
-
-### Datos
-**Bases de Datos**
-> MongoDB · MySQL · SQL Server
-
-**Data & ETL**
-> SSIS
-
----
-
-### Infraestructura & Workflow
-**Cloud**
-> AWS EC2
-
-**Control de versiones**
-> Git · GitHub
-
-**Entorno de desarrollo**
-> Visual Studio Code
+| Área | Tecnologías |
+|---|---|
+| **Lenguajes** | Python · JavaScript |
+| **Frontend** | HTML5 · CSS3 · React · React Native |
+| **Backend** | Node.js · Express · Django |
+| **Bases de Datos** | MongoDB · MySQL · SQL Server |
+| **Cloud** | AWS EC2 |
+| **Data & ETL** | SSIS |
+| **Workflow** | Git · GitHub · Visual Studio Code |
 
 ---
 
