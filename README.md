@@ -1,89 +1,106 @@
+<!-- =========================
+   GitHub Profile README
+   User: dilanferr
+   ========================= -->
+
 <h1 align="center">👋 Hola, soy Dilan Ferreira</h1>
-<h3 align="center">Ingeniería Informática · Analista Programador · Web & Mobile Developer</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <b>Estudiante de Ingeniería Informática · Analista Programador · Web & Mobile Developer</b>
 </p>
 
 <p align="center">
-  📍 Chile <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="22px">
+  📍 Chile 🇨🇱 ·
+  <a href="https://www.linkedin.com/in/dilanferreiracampos/">LinkedIn</a> ·
+  <a href="mailto:dilan.ferreira.c@gmail.com">Email</a> ·
+  <a href="https://github.com/dilanferr">GitHub</a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+</p>
+
+<hr/>
+
+## 🧭 Contenido
+- <a href="#-sobre-mí">Sobre mí</a>
+- <a href="#-stack-tecnológico">Stack tecnológico</a>
+- <a href="#-proyecto-destacado">Proyecto destacado</a>
+- <a href="#-estadísticas">Estadísticas</a>
+- <a href="#-contacto">Contacto</a>
 
 ---
 
-## 🚀 Sobre mí
+## 👨‍💻 Sobre mí
 Soy estudiante de **Ingeniería Informática** con formación como **Analista Programador**.  
-Me enfoco en el desarrollo de aplicaciones **funcionales, ordenadas y escalables**, trabajando tanto en frontend como backend.
+Me enfoco en construir software **funcional, ordenado y escalable**, integrando frontend, backend y datos cuando el proyecto lo requiere.
 
-He desarrollado proyectos académicos y personales que integran desarrollo web, aplicaciones móviles, bases de datos y procesos de datos, con un enfoque práctico orientado a resolver problemas reales.
-
----
-
-## 🌱 Enfoque Profesional
-- Desarrollo de software con buenas prácticas
-- Visión integral del stack tecnológico
-- Interés en proyectos de **sustentabilidad**, **automatización** y **gestión de datos**
-- Perfil generalista adaptable a distintos contextos tecnológicos
+Me gusta trabajar con un enfoque práctico: resolver problemas reales, documentar bien y mantener el código claro para que sea fácil de mantener y mejorar.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack tecnológico
 
-| Área | Tecnologías |
-|---|---|
-| **Lenguajes** | Python · JavaScript |
-| **Frontend** | HTML5 · CSS3 · React · React Native |
-| **Backend** | Node.js · Express · Django |
-| **Bases de Datos** | MongoDB · MySQL · SQL Server |
-| **Cloud** | AWS EC2 |
-| **Data & ETL** | SSIS |
-| **Workflow** | Git · GitHub · Visual Studio Code |
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>💻 Desarrollo</h3>
+      <ul>
+        <li><b>Lenguajes:</b> Python, JavaScript</li>
+        <li><b>Frontend:</b> HTML5, CSS3, React, React Native</li>
+        <li><b>Backend:</b> Node.js, Express, Django</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🗄️ Datos & Workflow</h3>
+      <ul>
+        <li><b>Bases de datos:</b> MongoDB, MySQL, SQL Server</li>
+        <li><b>Cloud:</b> AWS EC2</li>
+        <li><b>Data/ETL:</b> SSIS</li>
+        <li><b>Control de versiones:</b> Git, GitHub</li>
+        <li><b>IDE:</b> Visual Studio Code</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📌 Proyecto Destacado
+## ⭐ Proyecto destacado
 
 ### ♻️ ReusoSmart
-Aplicación móvil orientada al reciclaje de residuos electrónicos (RAEE), utilizando geolocalización, códigos QR y un sistema de puntos para incentivar prácticas responsables.
+Aplicación móvil orientada al reciclaje de residuos electrónicos (RAEE) usando geolocalización, QR y un sistema de puntos/medallas para incentivar prácticas responsables.
 
-**Stack:** React Native · Node.js · MongoDB
+- **Stack:** React Native · Node.js · MongoDB  
+- **Incluye:** autenticación, puntos geolocalizados, escaneo QR, medallas/recompensas
 
-**Características:**
-- Autenticación y gestión de usuarios
-- Puntos de reciclaje geolocalizados
-- Escaneo de códigos QR
-- Sistema de medallas y recompensas
-
-🔗 Repositorio  
-👉 https://github.com/dilanferr/ReusoSmartMap
+🔗 Repo: https://github.com/dilanferr/ReusoSmartMap
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilanferr&show_icons=true&hide_title=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dilanferr&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilanferr&layout=compact&langs_count=8" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilanferr"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilanferr&layout=compact"/>
+  <img src="https://streak-stats.demolab.com?user=dilanferr" height="170" />
 </p>
 
 ---
 
 ## 📫 Contacto
-- 📧 **Email:** dilan.ferreira.c@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/dilanferreiracampos/
+- 📧 Email: **dilan.ferreira.c@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/dilanferreiracampos/**
 
----
+<hr/>
 
-⭐ Gracias por visitar mi perfil
+<p align="center">
+  <i>Gracias por visitar mi perfil 👨‍💻</i>
+</p>
